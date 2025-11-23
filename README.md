@@ -7,7 +7,7 @@ Aspiring AI/ML Engineer with hands-on experience in:
 - Vector databases (Qdrant), Redis, and RAG (Retrieval-Augmented Generation)
 - ML tools: scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 
-I like building **end-to-end AI systems**: from data to models to APIs.
+Interested in Technology!!!
 
 ---
 
